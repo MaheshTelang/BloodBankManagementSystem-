@@ -64,7 +64,7 @@ Install the following software:
 
 Download the project from this GitHub repository:
 
-https://github.com/yana-codes24/BloodBankManagementSystem
+https://github.com/MaheshTelang/BloodBankManagementSystem-
 
 ### Step 2: Start XAMPP
 
@@ -110,7 +110,7 @@ Screenshots of the application, including the homepage, administrator login, don
 
 ## 7. GitHub Repository
 
-https://github.com/yana-codes24/BloodBankManagementSystem
+https://github.com/MaheshTelang/BloodBankManagementSystem-
 
 ## 8. Project Information
 
